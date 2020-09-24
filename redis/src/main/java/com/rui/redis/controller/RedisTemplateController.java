@@ -1,5 +1,6 @@
 package com.rui.redis.controller;
 
+import com.rui.redis.exception.GlobalErrorInfoException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.util.ObjectUtils;
@@ -10,6 +11,9 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 
+/**
+ * 测试 token 拦截器
+ */
 @RestController
 @RequestMapping("/rest")
 public class RedisTemplateController {
@@ -18,6 +22,9 @@ public class RedisTemplateController {
     @Autowired
     RedisTemplate redisTemplate;
 
+    /**
+     * 测试redis
+     */
     @RequestMapping("/expirationTime")
     public void redisExpirationTime() {
         Map<String, Object> map = new HashMap<String, Object>(16);
@@ -33,9 +40,8 @@ public class RedisTemplateController {
         }
         map.put("vin",list);
 
-
         redisTemplate.opsForValue().set(XIAO_BAI, map);
-        redisTemplate.expire(XIAO_BAI, 2, TimeUnit.SECONDS);
+        redisTemplate.expire(XIAO_BAI, 2, TimeUnit.SECONDS); //设置redis过期时间
 
         while (true) {
             Object redisValue = redisTemplate.opsForValue().get(XIAO_BAI);
@@ -46,6 +52,14 @@ public class RedisTemplateController {
         }
     }
 
+    /**
+     * 测试空指针异常
+     */
+    @RequestMapping("/exception")
+    public void testException(){
+        List list =null;
+        list.size();
+    }
 
 
 }
