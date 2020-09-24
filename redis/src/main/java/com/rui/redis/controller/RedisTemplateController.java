@@ -46,43 +46,6 @@ public class RedisTemplateController {
         }
     }
 
-    public static void main(String[] args){
-        String str = "[1711, 157, 1511, 179, 137, 357, 159, 1311, 3511, 379, 139, 359, 579, 5711, 3711, 5911, 3911, 1911]";
-       String numX = "13,35,15", numD ="79,911,711";
-      List numXlist = Arrays.asList(numX.split(","));
-      List numDlist = Arrays.asList(numD.split(","));
-      List d = Arrays.asList("7,9,11".split(","));
-      List x = Arrays.asList("1,3,5".split(","));
-
-      Set setX = new HashSet();
-      d.forEach(m->{
-          numXlist.forEach(n->{
-              setX.add(""+n+m);
-          });
-      });
-
-      x.forEach(m->{
-          numDlist.forEach(n->{
-              setX.add(""+m+n);
-          });
-      });
-
-      Set allParam = new HashSet();
-      List noParam = Arrays.asList("3".split(","));
-     setX.forEach(m->{
-
-             if(m.toString().indexOf("1")<0 && m.toString().indexOf("7")<0){
-
-                 allParam.add(m);
-             }
-
-     });
-     System.out.println(setX.size() +"setX: "+setX);
-        System.out.println(allParam.size());
-        System.out.print(allParam);
-
-
-    }
 
 
 }
