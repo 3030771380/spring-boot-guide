@@ -2,97 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4ee291-1cb8-4a51-84fd-aa4c575a9e34" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_18.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_8_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_8_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_8_11.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_31.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_14_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_14_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_4_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_14_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_13_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_13_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_13_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_18_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/redis/pom.xml" afterPath="$PROJECT_DIR$/springboot/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/SpringBootDemoServerApplication.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/SpringBootDemoServerApplication.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/SpringBootDemoServerApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/controller/ExceptionTemplateController.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/controller/ExceptionTemplateController.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/controller/MybatiesAnnotationController.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/controller/MybatiesAnnotationController.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/controller/RedisTemplateController.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/controller/RedisTemplateController.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/controller/TokenTemplateController.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/controller/TokenTemplateController.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/dao/TestDao.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/dao/TestDao.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/entity/Test.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/entity/Test.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/exception/GlobalErrorInfoException.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/exception/GlobalErrorInfoException.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/exception/GlobalErrorInfoHandler.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/exception/GlobalErrorInfoHandler.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/intercepter/AccessTokenVerifyInterceptor.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/intercepter/AccessTokenVerifyInterceptor.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/intercepter/WebMvcConfig.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/intercepter/WebMvcConfig.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/service/TestService.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/service/TestService.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/springbootdemo/service/impl/TestServiceImpl.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/mybatis_exception_token_redis/service/impl/TestServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/controller/TowDatabaseController.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/controller/TowDatabaseController.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/dao/cluster/TaskRuleConfigDao.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/dao/cluster/TaskRuleConfigDao.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/dao/master/SignConfigDao.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/dao/master/SignConfigDao.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/dto/ReqDto.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/dto/ReqDto.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/mapperconfig/ClusterDataSourceConfig.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/mapperconfig/ClusterDataSourceConfig.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/mapperconfig/MasterDataSourceConfig.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/mapperconfig/MasterDataSourceConfig.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/service/SignConfigService.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/service/SignConfigService.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/service/TaskRuleConfigService.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/service/TaskRuleConfigService.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/service/impl/SignConfigServiceImpl.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/service/impl/SignConfigServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/java/com/rui/twodatabase/service/impl/TaskRuleConfigServiceImpl.java" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/service/impl/TaskRuleConfigServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/redis/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/springboot/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/SpringBootDemoServerApplication.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/SpringBootDemoServerApplication.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/SpringBootDemoServerApplication.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/SpringBootDemoServerApplication.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/controller/ExceptionTemplateController.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/controller/ExceptionTemplateController.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/controller/RedisTemplateController.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/controller/RedisTemplateController.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/controller/TokenTemplateController.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/controller/TokenTemplateController.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/dao/TestDao.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/dao/TestDao.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/exception/GlobalErrorInfoException.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/exception/GlobalErrorInfoException.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/exception/GlobalErrorInfoHandler.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/exception/GlobalErrorInfoHandler.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/intercepter/AccessTokenVerifyInterceptor.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/intercepter/AccessTokenVerifyInterceptor.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/intercepter/WebMvcConfig.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/intercepter/WebMvcConfig.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/springbootdemo/service/impl/TestServiceImpl.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/service/impl/TestServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/controller/TowDatabaseController.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/controller/TowDatabaseController.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/dao/cluster/TaskRuleConfigDao.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/dao/cluster/TaskRuleConfigDao.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/dao/master/SignConfigDao.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/dao/master/SignConfigDao.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/dto/ReqDto.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/dto/ReqDto.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/mapperconfig/ClusterDataSourceConfig.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/mapperconfig/ClusterDataSourceConfig.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/mapperconfig/MasterDataSourceConfig.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/mapperconfig/MasterDataSourceConfig.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/service/SignConfigService.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/service/SignConfigService.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/service/TaskRuleConfigService.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/service/TaskRuleConfigService.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/service/impl/SignConfigServiceImpl.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/service/impl/SignConfigServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/redis/target/classes/com/rui/twodatabase/service/impl/TaskRuleConfigServiceImpl.class" afterPath="$PROJECT_DIR$/springboot/target/classes/com/rui/twodatabase/service/impl/TaskRuleConfigServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/springboot/target/classes/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/controller/MybatiesAnnotationController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/entity/Test.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/springboot/target/classes/com/rui/springbootdemo/service/TestService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/springboot/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/springboot/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/redis/target/" />
@@ -119,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springboot/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="568">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -187,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springboot/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-162">
@@ -318,9 +229,9 @@
         <option value="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/controller/TowDatabaseController.java" />
         <option value="$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/dto/ReqDto.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springboot/src/main/java/com/rui/SpringBootDemoServerApplication.java" />
         <option value="$PROJECT_DIR$/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -676,7 +587,7 @@
       <workItem from="1600653532121" duration="37386000" />
       <workItem from="1601000176694" duration="741000" />
       <workItem from="1601000930907" duration="336000" />
-      <workItem from="1601001280380" duration="1027000" />
+      <workItem from="1601001280380" duration="1430000" />
     </task>
     <servers />
   </component>
@@ -692,10 +603,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73933000" />
+    <option name="totallyTimeSpent" value="74336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -720,7 +632,7 @@
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33017752" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4163067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4163067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -738,7 +650,7 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -759,8 +671,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Mybatis datasource" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33017752" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40928724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33017752" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4163067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1043,14 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springboot/src/main/java/com/rui/twodatabase/mapperconfig/ClusterDataSourceConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1063,6 +967,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-162">
           <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>
