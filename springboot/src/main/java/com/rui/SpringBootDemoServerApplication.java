@@ -10,8 +10,8 @@ import org.springframework.context.annotation.ComponentScan;
 //@EnableDiscoveryClient
 //@EnableFeignClients
 //@EnableTsf
-@ComponentScan(basePackages = {"com.rui.twodatabase","com.rui.mybatis_exception_token_redis"})
-@MapperScan(basePackages = {"com.rui.twodatabase.dao","com.rui.mybatis_exception_token_redis.dao"})
+@ComponentScan(basePackages = {"com.rui.es_mysql","com.rui.mybatis_exception_token_redis"})
+@MapperScan(basePackages = {"com.rui.es_mysql.dao","com.rui.mybatis_exception_token_redis.dao"})
 public class SpringBootDemoServerApplication {
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
   "hints": [],
   "groups": [
     {
-      "sourceType": "com.rui.twodatabase.mapperconfig.EsDataSourseConfig",
+      "sourceType": "com.rui.es_mysql.mapperconfig.EsDataSourseConfig",
       "name": "spring.esDataSource",
       "sourceMethod": "esDataSource()",
       "type": "javax.sql.DataSource"
