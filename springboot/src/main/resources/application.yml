@@ -1,0 +1,40 @@
+spring:
+  redis:
+  #    host: localhost
+  #    port: 6379
+  #    password: 123
+      host: 120.53.17.64
+      port: 6379
+      password: cihon
+
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+  #    username: root
+  #    password: root
+  #    url: jdbc:mysql://localhost:3306/gx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
+      username: root
+      password: Cihon!@#123
+      url: jdbc:mysql://120.53.17.64:3306/gx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
+
+  #双数据采用Druid 多数据源区分主从方式，即配置主库的机器高配置，把核心高频的数据放在主库上；把次要的数据放在从库
+  #DruidDriver 代理 Driver，能够提供基于 Filter－Chain 模式的插件体系。
+  #DruidDataSource 高效可管理的数据库连接池
+master:
+      datasource:
+            driver-class-name: com.mysql.jdbc.Driver
+        #    username: root
+        #    password: root
+        #    url: jdbc:mysql://localhost:3306/gx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
+            username: root
+            password: Cihon!@#123
+            url: jdbc:mysql://120.53.17.64:3306/gx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
+
+cluster:
+      datasource:
+            driver-class-name: com.mysql.jdbc.Driver
+                #    username: root
+                #    password: root
+                #    url: jdbc:mysql://localhost:3306/gx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
+            username: root
+            password: Cihon!@#123
+            url: jdbc:mysql://120.53.17.64:3306/dim?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8&allowMultiQueries=true&allowPublicKeyRetrieval=true&tinyInt1isBit=false
