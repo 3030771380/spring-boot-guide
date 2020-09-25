@@ -1,0 +1,12 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.rui.twodatabase.mapperconfig.EsDataSourseConfig",
+      "name": "spring.esDataSource",
+      "sourceMethod": "esDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}

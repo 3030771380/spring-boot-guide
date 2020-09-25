@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.rui.twodatabase.dao.es.EsDwsFaultDMapper">
+
+    <!--智驾车辆四种模式的车数量占比 -->
+    <select id="findByCity" resultType="java.util.LinkedHashMap">
+       select day_str,end_city,end_county
+       from dws_fault_d
+       where end_county =#{endCounty}
+    </select>
+
+
+
+</mapper>
